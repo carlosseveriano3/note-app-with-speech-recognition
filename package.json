@@ -1,6 +1,6 @@
 {
   "homepage" : "http://carlosseveriano3.github.io/note-app-with-speech-recognition",
-  "name": "note-nlw",
+  "name": "note-app-with-speech-recognition",
   "private": true,
   "version": "0.0.0",
   "type": "module",
