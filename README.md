@@ -1,6 +1,6 @@
 <h1>Note App</h1>
 
-In this aplication you can enable the speech feature so the audio is converted to text and automatically fulfills the textbox for you, or you can also write a text note as usual.
+In this application you can enable the speech feature so the audio is converted to text and automatically fulfills the textbox for you, or you can also write a text note as usual.
 
 The speech recognition feature was implemented with Web Speech API.
 
