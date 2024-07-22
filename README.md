@@ -2,7 +2,7 @@
 
 This is a note app created with React, in which you can write a note as usual, or speak so the audio is converted to text and automatically fulfills the textbox.
 
-The api used for the speech recognition is from the web itself. The only thing needed is to give permission to the browser to use your mic.
+The speech recognition feature was implemented with Web Speech API.
 
 The stylization and responsiviness was made with “Tailwind”, so the application’s layout adjusts to any device.
 
