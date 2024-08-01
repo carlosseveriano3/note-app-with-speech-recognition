@@ -1,12 +1,9 @@
 <h1>Note App</h1>
 
-In this application you can enable the speech feature so the audio is converted to text and automatically fulfills the textbox for you, or you can also write a text note as usual.
-
-The speech recognition feature was implemented with Web Speech API.
-
-The stylization and responsiviness was made with “Tailwind”, so the application’s layout adjusts to any device.
-
-All the notes created are kept in Local Storage. You can also search for a specific note in the “search bar”.
+ - Project created with React and Typescript. 
+ - The application has a speech feature where the user's audio is captured and automatically converted to text in real-time, fulfilling the note. The user can also just write a note as usual. 
+ - The speech recognition feature was implemented using Web Speech API, which enables it to incorporate voice data into web apps.
+ - All the notes are saved in localStorage.
 
 Dependencies:
  - Vite
